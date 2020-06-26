@@ -142,11 +142,19 @@ figure {
 }
 
 .social li a:hover {
-  color: #6f8cf7;
+  color:white;
+  zoom: 1;
+  background-color: black;
+
 }
 
 .darkmode--activated .social li a:hover{
-  color: #F2B116;
+  
+  color:black;
+  zoom: 1;
+  background-color:white;
+  
+  
 }
 
 .social li a:hover, .social li a:active, .social li a:focus {
